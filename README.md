@@ -44,6 +44,8 @@ a solenoid lock that opens a 3D printed safe.
 
 If using this script for the 'Eye Blink Safe', make sure to change the isEyeBlinkSafe variable in the script to True. 
 
+The Eye blink safe uses an LCD screen to output relavant info from the running script to the user. 
+
 
 
 
