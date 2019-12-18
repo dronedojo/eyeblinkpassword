@@ -13,7 +13,7 @@ password='LLRRB' ##L for left eye closed, R for right eye closed, B for both eye
 ##Each digit of the password can be either L, R or B.
 
 
-isRaspberryPi='' ##If running from Raspberry Pi, assume it is wired for the eye blink safe
+isRaspberryPi='' ##If running from Raspberry Pi don't display video output
 isEyeBlinkSafe=False
 osType=platform.system() ##Output is either: 'Linux' or 'Darwin' or 'Windows'
 
